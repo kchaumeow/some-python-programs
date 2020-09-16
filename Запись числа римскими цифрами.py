@@ -1,6 +1,6 @@
-n = int(input('Введите число: '))
+n = int(input('Insert number: '))
 while n < 0 or n > 4000:
-    n = int(input('Введите число 0 < a < 4000: '))    
+    n = int(input('Insert number 0 < a < 4000: '))    
 r = ''
 T = 1
 while n > 0:
