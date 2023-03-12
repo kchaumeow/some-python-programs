@@ -1,1 +1,1 @@
-My python programms from school
+My python programs from school
